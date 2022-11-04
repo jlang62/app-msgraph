@@ -27,4 +27,9 @@
         android:name="com.example.ue2.ui.contact.ContactFragment"
         android:label="@string/title_contact"
         tools:layout="@layout/fragment_contact" />
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.example.ue2.ui.profile.ProfileFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_profile" />
 </navigation>
